@@ -1,0 +1,198 @@
+{
+  "assistant": "Fitnova Assistant",
+  "welcome": "Hi! I am the Fitnova Assistant. Ask me anything about using the website. Fitnova is for wellness tracking, not medical advice.",
+  "quickReplies": [
+    "Login help",
+    "How calculators work",
+    "Find a workout",
+    "Log food or water",
+    "Place an order",
+    "Pricing and plans",
+    "Talk to Nova",
+    "Report a bug",
+    "Contact support"
+  ],
+  "unknown": "I am not sure about that, and I do not want to guess. Let me connect you with our team.",
+  "safety": {
+    "medical": "I cannot diagnose conditions or give medical, medication or supplement-dose advice. FitLife Pro is for wellness tracking, not medical advice. Please speak with a qualified doctor or pharmacist.",
+    "distress": "I am really sorry you are going through this. You deserve support right now. Please reach out to someone you trust and contact local emergency services or a crisis helpline in your country. I can stay here and help you find real-world support.",
+    "eating": "I am sorry this feels difficult. You deserve support without judgement. I cannot provide weight or calorie targets. Please consider talking with a doctor, therapist or someone you trust. If you feel in immediate danger, contact local emergency services."
+  },
+  "faq": [
+    {
+      "question": "What is FitLife Pro?",
+      "keywords": [
+        "what is fitlife",
+        "what is fitnova",
+        "about fitlife",
+        "website"
+      ],
+      "answer": "FitLife Pro is a wellness tracking website for workouts, food, water, sleep and mood. You can also use calculators, browse workouts and ask Nova for general wellness ideas. It is not a medical service."
+    },
+    {
+      "question": "Is there a free plan?",
+      "keywords": [
+        "free plan",
+        "is it free",
+        "pricing",
+        "premium",
+        "price",
+        "trial",
+        "upgrade",
+        "plans"
+      ],
+      "answer": "The Free plan includes core trackers, BMI and calorie calculators, five beginner workouts, the store and five Nova messages per day. Premium unlocks extended mood history, the full workout library and more Nova messages. See Pricing for this demo's plan preview. Billing and trial activation are not connected."
+    },
+    {
+      "question": "Sign up and log in",
+      "keywords": [
+        "login",
+        "log in",
+        "sign in",
+        "signup",
+        "sign up",
+        "password",
+        "forgot password",
+        "account"
+      ],
+      "answer": "Use Sign in or Create free account from the welcome screen. Forgot password simulates a reset confirmation in this demo. Never share your password or a one-time code with anyone, including this assistant."
+    },
+    {
+      "question": "Dark mode",
+      "keywords": [
+        "dark mode",
+        "light mode",
+        "theme"
+      ],
+      "answer": "Use the sun/moon button in the top bar. Your theme choice is remembered on this device."
+    },
+    {
+      "question": "Dashboard",
+      "keywords": [
+        "dashboard",
+        "sample data",
+        "streak",
+        "daily goal",
+        "numbers wrong"
+      ],
+      "answer": "Your dashboard brings today's activity and goals together. Demo metrics are labeled as sample. Log an entry in a tracker to add your own data. A streak here is a sample illustration, not a verified activity record."
+    },
+    {
+      "question": "BMI calculator",
+      "keywords": [
+        "bmi",
+        "body mass"
+      ],
+      "answer": "BMI is calculated as weight in kilograms divided by height in metres squared. It is a rough screening number, not a diagnosis, and does not distinguish muscle from body fat. Ask a doctor about health decisions."
+    },
+    {
+      "question": "Calorie and protein calculators",
+      "keywords": [
+        "calculator",
+        "calories",
+        "calorie",
+        "protein",
+        "how calculator",
+        "energy"
+      ],
+      "answer": "The calorie estimate uses the Mifflin-St Jeor equation and an activity multiplier; protein is an estimate based on weight and activity. These are general estimates, not prescriptions. Ask a qualified professional for personal medical or nutrition advice."
+    },
+    {
+      "question": "Workout library",
+      "keywords": [
+        "workout",
+        "exercise",
+        "library",
+        "video",
+        "find a workout",
+        "equipment",
+        "schedule"
+      ],
+      "answer": "Open Workouts to browse the library. The first five beginner sessions are available on Free; other sessions show an upgrade preview. Fitness ideas go to Nova. I cannot recommend exercise for an injury: please ask a doctor or physiotherapist."
+    },
+    {
+      "question": "Food and water logging",
+      "keywords": [
+        "food",
+        "meal",
+        "water",
+        "log food",
+        "drink",
+        "nutrition"
+      ],
+      "answer": "Open Trackers and choose Food & water to add a meal or water amount. Entries are stored locally in this browser in this demo. Food values are estimates."
+    },
+    {
+      "question": "Weight and mood",
+      "keywords": [
+        "weight",
+        "mood",
+        "stress",
+        "sleep",
+        "tracker",
+        "history"
+      ],
+      "answer": "Open Trackers to add weight, mood, sleep or stress entries. Free includes recent mood history; older history is a Premium feature. If tracking feels stressful, take a break and reach out to someone you trust."
+    },
+    {
+      "question": "Store and orders",
+      "keywords": [
+        "store",
+        "shop",
+        "order",
+        "checkout",
+        "cart",
+        "payment",
+        "upi",
+        "whatsapp",
+        "delivery",
+        "refund",
+        "cancel"
+      ],
+      "answer": "Add products to your cart from Store to see an order summary. This demo does not process payments or submit real orders. Delivery, refund, cancellation and payment-contact details are not configured; please contact support before placing a real order. Never share a UPI PIN, OTP or card details here."
+    },
+    {
+      "question": "Nova",
+      "keywords": [
+        "nova",
+        "coach",
+        "meal idea",
+        "fitness idea",
+        "talk to nova"
+      ],
+      "answer": "Nova is the separate AI fitness coach for general workout ideas, meal inspiration and motivation. Open Nova from the navigation. Nova is not a doctor or certified trainer. If you need medical advice, please contact a qualified professional."
+    },
+    {
+      "question": "Privacy and data",
+      "keywords": [
+        "privacy",
+        "data",
+        "delete",
+        "export",
+        "stored",
+        "secure"
+      ],
+      "answer": "This prototype stores demo account and tracker data in this browser's local storage. It has no server-backed authentication, encryption service, cross-device sync or production privacy policy. Do not enter sensitive health or payment information."
+    },
+    {
+      "question": "Technical problems",
+      "keywords": [
+        "bug",
+        "broken",
+        "not working",
+        "not loading",
+        "error",
+        "support",
+        "contact",
+        "help"
+      ],
+      "answer": "Try refreshing the page and checking your connection. If the issue continues, choose Contact support below to create a local demo ticket. No support team is connected yet."
+    }
+  ],
+  "unconfigured": {
+    "refunds": "I do not have the return or refund policy yet. Please contact support.",
+    "delivery": "I do not have delivery times or service areas yet. Please contact support.",
+    "billing": "Premium payments, cancellation and free-trial availability are not connected in this demo. Please check Pricing or contact support.",
+    "privacy": "A production privacy policy, data region and support response time have not been configured."
+  }
+}
